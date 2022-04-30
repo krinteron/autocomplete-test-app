@@ -1,5 +1,8 @@
 # autocomplete-test-app
 
+## DEMO
+[Github Pages](https://krinteron.github.io/autocomplete-test-app/)
+
 ## Project setup
 
 ```
